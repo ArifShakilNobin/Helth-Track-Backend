@@ -1,0 +1,53 @@
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\appsettings.Development.json
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\appsettings.json
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.exe
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.deps.json
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.runtimeconfig.json
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.pdb
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Humanizer.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Npgsql.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.DataService.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.Entity.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.DataService.pdb
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.Entity.pdb
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.csproj.AssemblyReference.cache
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.GeneratedMSBuildEditorConfig.editorconfig
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.AssemblyInfoInputs.cache
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.AssemblyInfo.cs
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.csproj.CoreCompileInputs.cache
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.MvcApplicationPartsAssemblyInfo.cs
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.MvcApplicationPartsAssemblyInfo.cache
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\staticwebassets.build.json
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\staticwebassets.development.json
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\scopedcss\bundle\Health Tracking.styles.css
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.csproj.CopyComplete
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.dll
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\refint\Health Tracking.dll
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.pdb
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.genruntimeconfig.cache
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\ref\Health Tracking.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.xml
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.xml

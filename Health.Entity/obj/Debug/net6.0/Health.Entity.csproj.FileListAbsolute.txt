@@ -1,0 +1,12 @@
+G:\Home Work\Health Tracking\Health.Entity\bin\Debug\net6.0\Health.Entity.deps.json
+G:\Home Work\Health Tracking\Health.Entity\bin\Debug\net6.0\Health.Entity.dll
+G:\Home Work\Health Tracking\Health.Entity\bin\Debug\net6.0\Health.Entity.pdb
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.csproj.AssemblyReference.cache
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.AssemblyInfoInputs.cache
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.AssemblyInfo.cs
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.csproj.CoreCompileInputs.cache
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.dll
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\refint\Health.Entity.dll
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\Health.Entity.pdb
+G:\Home Work\Health Tracking\Health.Entity\obj\Debug\net6.0\ref\Health.Entity.dll

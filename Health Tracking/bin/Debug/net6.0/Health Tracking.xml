@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Health Tracking</name>
+    </assembly>
+    <members>
+        <member name="M:Health_Tracking.Controllers.UsersController.GetUsers">
+            <summary>
+            Get all user from database
+            </summary>
+            <returns>return a list</returns>
+        </member>
+    </members>
+</doc>
