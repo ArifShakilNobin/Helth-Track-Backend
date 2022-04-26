@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Health.DataService", "Healt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Health.Entity", "Health.Entity\Health.Entity.csproj", "{FE8FBB8A-7BF2-404E-ACFA-D41069435044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{3ADB1943-38D6-4D23-851D-A090D1B150A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FE8FBB8A-7BF2-404E-ACFA-D41069435044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE8FBB8A-7BF2-404E-ACFA-D41069435044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE8FBB8A-7BF2-404E-ACFA-D41069435044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADB1943-38D6-4D23-851D-A090D1B150A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADB1943-38D6-4D23-851D-A090D1B150A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADB1943-38D6-4D23-851D-A090D1B150A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADB1943-38D6-4D23-851D-A090D1B150A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lYp5tVTxQWJWmLf+Sx5A2FMS9ATqZnIBXn5+NsNoMQRfPqIBT1QwM7HoiCI33e79RjUfVp+dqswL20VJYaT/Vg==",
+  "dgSpecHash": "TeP0fDYDrN0TQ1wMrDNzF5pMP/1TIl31XrL9/7gGUj61vYaFX344CsbjHV0jpAlX48HXgDiqJxX1w2pFPNK6sw==",
   "success": true,
   "projectFilePath": "G:\\Home Work\\Health Tracking\\Health Tracking\\Health Tracking.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.4\\microsoft.aspnetcore.authentication.jwtbearer.6.0.4.nupkg.sha512",
     "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.4\\microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",
     "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.4\\microsoft.aspnetcore.cryptography.keyderivation.6.0.4.nupkg.sha512",
-    "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
+    "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.4\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\Arif Shakil Nobin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",

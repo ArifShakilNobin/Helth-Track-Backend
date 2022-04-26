@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Health.DataService\Health.DataService.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
 
 	<PropertyGroup>
