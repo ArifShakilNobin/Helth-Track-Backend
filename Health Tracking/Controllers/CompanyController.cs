@@ -2,6 +2,7 @@
 using Health.Entity;
 using Health.Entity.Entity;
 using Health.Entity.Filter;
+using Health.Entity.Wrappers;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Repository.Base;
@@ -77,6 +78,26 @@ namespace Health_Tracking.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+
+
+        [HttpGet]
+        [Route("GetCompany")]
+        public IActionResult GetCompanyByPage([FromQuery] PagedResponse pagedResponse)
+        {
+            try
+            {
+                var response = _unitOfWork.Companies.GetCompanyByPage(pagedResponse);
+                return Ok(new ApiResponse(true, "Company data load successfully", response));
+
+            }
+            catch (Exception ex)
+            {
+                return Ok(new ApiResponse(true, "Company data load failed", null));
+            }
+        }
+
+
 
     }
 }

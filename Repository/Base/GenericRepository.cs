@@ -31,6 +31,11 @@ namespace Repository.Base
             return _context.Set<T>().Where(expression);
         }
 
+        public IQueryable<T> FindAll()
+        {
+            return _context.Set<T>();
+        }
+
         public IEnumerable<T> GetAll()
         {
             return _context.Set<T>().ToList();

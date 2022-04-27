@@ -16,5 +16,7 @@ namespace Repository.Base
         void AddRange(IEnumerable<T> entities);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities);
+
+        IQueryable<T> FindAll();
     }
 }

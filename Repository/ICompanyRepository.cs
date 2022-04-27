@@ -1,4 +1,5 @@
 ﻿using Health.Entity.Entity;
+using Health.Entity.Wrappers;
 using Repository.Base;
 using System;
 using System.Collections.Generic;
@@ -13,5 +14,9 @@ namespace Repository
         IEnumerable<Company> GetPopularCompanies(int count);
         IEnumerable<Company> GetAllCompany();
         bool companyAlreadyexist(string name);
+
+        IEnumerable<Company> GetCompanyByPage(PagedResponse pagedResponse);
+
+
     }
 }
