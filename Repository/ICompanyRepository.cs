@@ -12,5 +12,6 @@ namespace Repository
     {
         IEnumerable<Company> GetPopularCompanies(int count);
         IEnumerable<Company> GetAllCompany();
+        bool companyAlreadyexist(string name);
     }
 }

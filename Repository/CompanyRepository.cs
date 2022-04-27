@@ -15,6 +15,11 @@ namespace Repository
         {
         }
 
+        public bool companyAlreadyexist(string name)
+        {
+            return _context.Companies.Any(c => c.companyName == name);
+        }
+
         public IEnumerable<Company> GetAllCompany()
         {
             return _context.Companies.Distinct().ToList();

@@ -8,10 +8,10 @@ namespace Health.Entity
 {
     public class ApiResponse
     {
-        private Boolean success;
-        private String message;
-        private Object data;
-        private int count;
+        public Boolean success { get; set; }
+        public String message { get; set; }
+        public Object data { get; set; }
+        public int count { get; set; }
 
         public ApiResponse(Boolean success, String message)
         {

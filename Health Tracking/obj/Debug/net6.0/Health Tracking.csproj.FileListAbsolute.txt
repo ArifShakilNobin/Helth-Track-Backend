@@ -5,6 +5,7 @@ G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.de
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.runtimeconfig.json
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.dll
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.pdb
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.xml
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Humanizer.dll
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -31,7 +32,9 @@ G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Swashbuckle.AspNet
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.DataService.dll
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.Entity.dll
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Repository.dll
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.DataService.pdb
+G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Repository.pdb
 G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health.Entity.pdb
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.csproj.AssemblyReference.cache
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.GeneratedMSBuildEditorConfig.editorconfig
@@ -46,10 +49,7 @@ G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\scopedcss\bundle\H
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.csproj.CopyComplete
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.dll
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\refint\Health Tracking.dll
+G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.xml
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.pdb
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.genruntimeconfig.cache
 G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\ref\Health Tracking.dll
-G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Health Tracking.xml
-G:\Home Work\Health Tracking\Health Tracking\obj\Debug\net6.0\Health Tracking.xml
-G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Repository.dll
-G:\Home Work\Health Tracking\Health Tracking\bin\Debug\net6.0\Repository.pdb
